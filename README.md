@@ -1,59 +1,127 @@
-# Hi, I'm Nour 👋
 
-### Software Engineer | .NET Backend & Full-Stack Developer
+<div align="center">
 
-I'm a software engineer specializing in backend development with C# and .NET, with experience building REST APIs and maintaining enterprise applications. I'm also developing my frontend skills with React to build full-stack applications.
+# Hi, I'm Nour El Houda 👋
 
-I enjoy solving technical problems, designing maintainable software, and continuously improving my engineering skills.
+### Software Engineer | .NET Backend Developer | Full-Stack Developer
 
-- 💼 **Focus:** .NET backend development and REST APIs
-- 🛠️ **Backend:** C#, ASP.NET Core, Entity Framework Core, SQL Server
-- 🏗️ **Architecture:** Clean Architecture, CQRS, MediatR
-- 🌐 **Frontend:** React, JavaScript, Tailwind CSS
-- 🔐 **Other technologies:** Keycloak, JWT, IIS
-- 📍 **Location:** Algeria
+I build backend applications and REST APIs with a focus on clean architecture, maintainable code, and reliable data access. I also work with React to build web interfaces.
+
+<p>
+  <a href="https://www.linkedin.com/in/nour-moudjebeur/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-f47ca8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/nour411">
+    <img src="https://img.shields.io/badge/GitHub-nour411-28242b?style=for-the-badge&logo=github&logoColor=f47ca8" alt="GitHub" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## About Me
+
+- 💻 Software Engineer focused on backend development with C# and .NET.
+- 🏗️ Interested in clean architecture, API design, and maintainable software.
+- 🗄️ Experienced with SQL Server, data access, and database-driven applications.
+- ⚛️ Also developing my skills in React and modern frontend development.
+- 🚀 Continuously improving my software design, testing, and problem-solving skills.
 
 ## Tech Stack
 
-**Languages:** C#, JavaScript, SQL
+**Backend**
+<br/>
+![C#](https://img.shields.io/badge/C%23-28242b?style=flat-square&logo=csharp&logoColor=f47ca8)
+![.NET](https://img.shields.io/badge/.NET-28242b?style=flat-square&logo=dotnet&logoColor=f47ca8)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-28242b?style=flat-square&logo=dotnet&logoColor=f47ca8)
+![REST APIs](https://img.shields.io/badge/REST_APIs-28242b?style=flat-square&logo=fastapi&logoColor=f47ca8)
 
-**Backend:** .NET, ASP.NET Core Web API, Entity Framework Core, LINQ, MediatR
+**Database & Data Access**
+<br/>
+![SQL Server](https://img.shields.io/badge/SQL_Server-28242b?style=flat-square&logo=microsoftsqlserver&logoColor=f47ca8)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-28242b?style=flat-square&logo=dotnet&logoColor=f47ca8)
 
-**Database:** SQL Server, T-SQL, Stored Procedures
+**Architecture & Development**
+<br/>
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-28242b?style=flat-square&logoColor=f47ca8)
+![CQRS](https://img.shields.io/badge/CQRS-28242b?style=flat-square&logoColor=f47ca8)
+![Git](https://img.shields.io/badge/Git-28242b?style=flat-square&logo=git&logoColor=f47ca8)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-28242b?style=flat-square&logo=azuredevops&logoColor=f47ca8)
 
-**Frontend:** React, Tailwind CSS
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-28242b?style=flat-square&logo=react&logoColor=f47ca8)
+![JavaScript](https://img.shields.io/badge/JavaScript-28242b?style=flat-square&logo=javascript&logoColor=f47ca8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-28242b?style=flat-square&logo=tailwindcss&logoColor=f47ca8)
 
-**Tools:** Git, GitHub, Azure DevOps, Swagger, IIS
+---
 
 ## Featured Projects
 
-### BugTracker API
-A backend project focused on project and issue management, with an emphasis on maintainable architecture and backend engineering practices.
+### 01. BugTracker API
+**Personal Portfolio Project**
 
-**Technologies:** ASP.NET Core Web API, EF Core, SQL Server, Clean Architecture, CQRS/MediatR
+A backend application for managing projects, issues, comments, and sprints. Built to practise backend architecture, separation of concerns, and maintainable application design.
 
-[View repository](https://github.com/nour411/BugTracker))
+- Implemented project and issue management features.
+- Organized application logic using Clean Architecture and CQRS.
+- Added API documentation with Swagger.
+- Developed automated tests.
 
-### Dynamic Display Migration
-A legacy desktop application migration from VB6 to .NET, involving interconnected modules and a customer satisfaction tracking feature.
+**Technologies:** C#, ASP.NET Core Web API, SQL Server, EF Core, MediatR, FluentValidation.
 
-**Technologies:** C#, .NET Framework, WPF, SQL Server
+[View Repository →](https://github.com/nour411/BugTracker)
 
+---
 
-### Wassit V2— Confidential Professional Project
-Contributed to the development and maintenance of a recruitment platform connecting employers and job seekers at a major Algerian employment agency.
+### 02. Dynamic Display — Legacy System Migration
+**Professional Experience**
 
-  Developed and maintained backend features and API endpoints.
-  Contributed to application reliability, debugging, and performance improvements.
-  Developed and maintained reporting features to support business operations.
-  Collaborated with the team throughout development, testing, and deployment.
+Migrated a legacy desktop application from Visual Basic 6 to .NET Framework and WPF, independently carrying out the migration.
 
-**Note:** Source code and confidential implementation details are not publicly available.
+- Migrated five interconnected modules.
+- Preserved communication between modules through system messages.
+- Added a customer satisfaction tracking module.
 
+**Technologies:** C#, .NET Framework, WPF, SQL Server.
 
-## Connect with Me
+---
 
-- **LinkedIn:** [Nour El Houda Moudjebeur](https://www.linkedin.com/in/nour-moudjebeur/)
-- **Portfolio:** Coming soon
-- **Résumé:** Available upon request
+### 03. Wassit V2 — Recruitment Platform
+**Professional Experience · Confidential**
 
+Contributed to the development and maintenance of a recruitment platform connecting employers and job seekers at an Algerian employment agency.
+
+- Developed and maintained backend features and API endpoints.
+- Worked on reporting functionality supporting business operations.
+- Investigated issues and contributed to application reliability and maintenance.
+- Supported testing and deployment activities.
+
+<sub>Project source code and internal technical details are confidential and are not publicly shared.</sub>
+
+---
+
+## Currently Improving
+
+- Advanced ASP.NET Core and backend performance.
+- SQL query optimization and database indexing.
+- Automated testing and continuous integration.
+- React and full-stack application development.
+- Software architecture and design principles.
+
+---
+
+## Let's Connect
+
+I'm interested in opportunities where I can contribute to backend engineering, build reliable applications, and continue growing as a software engineer.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nour-moudjebeur/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-f47ca8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
+
+<div align="center">
+  <sub>Building, learning, and improving — one project at a time.</sub>
+</div>
