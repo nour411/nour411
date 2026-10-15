@@ -41,9 +41,12 @@ A legacy desktop application migration from VB6 to .NET, involving interconnecte
 
 
 ### Wassit V2— Confidential Professional Project
-Contributed to backend development for a recruitment platform serving employers and job seekers.
+Contributed to the development and maintenance of a recruitment platform connecting employers and job seekers at a major Algerian employment agency.
 
-**Technologies:** ASP.NET Core, Clean Architecture, CQRS/MediatR, EF Core, SQL Server, Keycloak
+  Developed and maintained backend features and API endpoints.
+  Contributed to application reliability, debugging, and performance improvements.
+  Developed and maintained reporting features to support business operations.
+  Collaborated with the team throughout development, testing, and deployment.
 
 **Note:** Source code and confidential implementation details are not publicly available.
 
